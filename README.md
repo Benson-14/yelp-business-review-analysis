@@ -4,7 +4,7 @@ This project performs large-scale sentiment analysis on Yelp reviews using tools
 
 ## 🧩 Workflow
 
-![Architecture](img/Yelp Analysis1.png)
+![Architecture](img/YelpAnalysis1.png)
 
 1. **Data Handling**  
    - Load Yelp reviews (~5GB, ~7 million rows) and business data (~100MB) in JSON format.  
